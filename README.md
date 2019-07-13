@@ -16,7 +16,6 @@ This repository contains the presentation slides for the three seminars:
  * Routing in the classical Internet
  * Classical traffic engineering
 
-
 The slide are made available in both powerpoint format and PDF format under the "Creative Commons
 Attribution 4.0 International Public License" (see LICENSE file for details).
 
