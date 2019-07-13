@@ -1,4 +1,4 @@
-In July 2019 I gave a series of three seminars to the quantum networking team at Qutech.
+In July 2019 I gave a series of three seminars to the quantum networking team at QuTsech.
 
 QuTech is associciated with the Technical University of Delft (my alma mater) and does research
 and development in the field of quantum technologies.
