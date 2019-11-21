@@ -11,11 +11,12 @@ background in quantum physics, quantum information, and quantum computing. The g
 both theorists and experimentalists. However, with a few exceptions, the members of the group had
 limited exposure to computure science and classical networking protocols.
 
-This repository contains the presentation slides for the four seminars:
+This repository contains the presentation slides for the five seminars:
  * Classical networking introduction
  * Routing in the classical Internet
  * Classical traffic engineering
  * Classical data plane and P4
+ * Protocol design considerations
 
 The slide are made available in both powerpoint format and PDF format under the "Creative Commons
 Attribution 4.0 International Public License" (see LICENSE file for details).
